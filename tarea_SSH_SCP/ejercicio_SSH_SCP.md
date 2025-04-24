@@ -38,11 +38,11 @@
 
 -Prueba
 
-![prueba](imagenes/moverP1)
+![prueba](imagenes/moverP1.png)
 
 -Prueba2
 
-![prueba2](imagenes/moverP2)
+![prueba2](imagenes/moverP2.png)
 
 # Creamos la carpeta prueba3 con 200 archivos y lo enviamos al escritorio de mi pc:
 
