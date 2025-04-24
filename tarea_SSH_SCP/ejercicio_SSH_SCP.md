@@ -36,11 +36,11 @@
 
 # Movemos las carpetas creadas anteriormente:
 
--Prueba
+- Prueba
 
 ![prueba](imagenes/moverP1.png)
 
--Prueba2
+- Prueba2
 
 ![prueba2](imagenes/moverP2.png)
 
