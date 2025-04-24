@@ -20,19 +20,19 @@ Nos conectamos a la máquina B desde la máquina A:
 
 Creamos la carpeta prueba en la máquina B
 
-![crearAlex](imagenes/crearprueba.png)
+![crearAlex](imagenes/crear_prueba.png)
 
 ![crearAlex](imagenes/mover1.png)
 
 Creamos la carpeta prueba2 en la máquina A
 
-![crearAlex](imagenes/crearprueba2.png)
+![crearAlex](imagenes/crear_prueba2.png)
 
 ![crearAlex](imagenes/mover2.png)
 
 Creamos la carpeta prueba3 con 200 archivos y lo enviamos al escritorio de mi pc:
 
-![crearAlex](imagenes/creararchivos.png)
+![crearAlex](imagenes/crear_archivos.png)
 
 ![crearAlex](imagenes/moverPC.png)
 
