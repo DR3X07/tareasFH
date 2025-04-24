@@ -2,7 +2,7 @@ Primero ponemos los ajustes de las dos máquinas:
 
 A
 ![]
-#B
+B
 ![]
 Creamos el usuario alex en la máquina A:
 ![crear](imagenes/usuario alex.png)
