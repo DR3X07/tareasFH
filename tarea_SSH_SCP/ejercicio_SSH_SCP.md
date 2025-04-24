@@ -5,7 +5,7 @@ A
 B
 ![]
 Creamos el usuario alex en la máquina A:
-![crear](imagenes/usuario alex.png)
+![crearAlex](/imagenes/usuario_alex.png)
 creamos el usuario brais en la máquina B:
 
 Nos conectamos a la máquina B desde la máquina A:
