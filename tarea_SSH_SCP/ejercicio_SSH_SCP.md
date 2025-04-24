@@ -1,3 +1,5 @@
+#TRABAJO SSH/SCP
+
 Primero ponemos los ajustes de las dos máquinas:
 
 A
@@ -5,7 +7,9 @@ A
 ![configuracionA](imagenes/Captura1.PNG)
 
 B
+
 ![]
+
 Creamos el usuario alex en la máquina A:
 
 ![crearAlex](imagenes/usuario_alex.png)
