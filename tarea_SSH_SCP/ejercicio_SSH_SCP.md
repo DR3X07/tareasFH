@@ -1,4 +1,4 @@
-#TRABAJO SSH/SCP
+# TRABAJO SSH/SCP
 
 Primero ponemos los ajustes de las dos máquinas:
 
