@@ -8,7 +8,7 @@ A
 
 B
 
-![]
+![configuraciónB](imagenes/B.png)
 
 # Creamos el usuario alex en la máquina A:
 
