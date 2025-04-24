@@ -2,11 +2,11 @@
 
 # Primero ponemos los ajustes de las dos máquinas:
 
-A
+- A
 
 ![configuracionA](imagenes/Captura1.PNG)
 
-B
+- B
 
 ![configuraciónB](imagenes/B.png)
 
