@@ -34,6 +34,16 @@
 
 ![mover](imagenes/mover2.png)
 
+# Movemos las carpetas creadas anteriormente:
+
+-Prueba
+
+![prueba](imagenes/moverP1)
+
+-Prueba2
+
+![prueba2](imagenes/moverP2)
+
 # Creamos la carpeta prueba3 con 200 archivos y lo enviamos al escritorio de mi pc:
 
 ![crear archivos](imagenes/crear_archivos.png)
